@@ -13,4 +13,4 @@ The JavaScript code defines variables to access the HTML elements and adds event
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Wanna Try it?
-Visit https://pavara.github.io/To-Do-List-WebApp
+Visit https://pavaram.github.io/To-Do-List-WebApp
