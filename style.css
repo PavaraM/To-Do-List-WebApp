@@ -1,5 +1,5 @@
 html {
-	margin: 0 10px;
+	margin: 0.8% 6%;
 	scroll-behavior: smooth;
 }
 
@@ -37,6 +37,7 @@ input[type="text"] {
   background-color: #5e5e5e;
   color: #d8d8d8;
   margin-right: 10px;
+  text-align: center;
 }
 
 button {
@@ -65,10 +66,15 @@ li {
   padding: 10px;
   margin: 10px 0;
   background-color: #5e5e5e;
-  border-radius: 5px;
+  border-radius: 15px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+li:hover {
+ 
+  background-color: #646566;
 }
 
 li.completed {
@@ -96,7 +102,7 @@ a {
 }
 
 .header {
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 0.626);
 	padding: 11px;
 	border-radius: 10px;
 	border: none;
@@ -176,11 +182,32 @@ marquee {
   border-radius: 10px;
   border: none;
   font-size: large;
-  margin: 0%;
 }
+
 
 marquee > p {
   margin: 0%;
   color: #a5a5a5;
   font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+  background-color: #3a3b3c;
+  bottom: 0%;
+  left:0%;
+  position: fixed;
+  width: 100%;
+}
+
+center {
+  display: block;
+  text-align: center;
+}
+
+.addclearbtns {
+  margin-top: 0;
+}
+
+.task-input {
+  width: 100%;
 }
