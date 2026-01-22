@@ -1,16 +1,28 @@
-## To-Do-List WebApp
-This is a To-Do List web application that allows users to add, remove, and mark tasks as completed.
 
-The HTML code defines the structure of the web page, including a header with a title and subtitle, an input form for adding tasks, a list to display tasks, and a button to go back to the top of the page. The page also includes links to external CSS and JavaScript files.
+# To-Do-List WebApp
+A simple and clean To-Do List Web Application built using HTML, CSS, and Vanilla JavaScript.
+It helps users manage daily tasks by adding, completing, and removing to-dos — all saved using Local Storage, so tasks don’t disappear on refresh
 
-The CSS code styles the HTML elements, including setting colors, fonts, and backgrounds, and positioning elements on the page.
 
-The JavaScript code defines variables to access the HTML elements and adds event listeners to the Add and Clear buttons. When the Add button is clicked, a new task is created with a unique ID, name, and status of incomplete. The task is added to the task array, which is then saved to local storage and displayed on the web page. When the Clear button is clicked, all completed tasks are removed from the task array and the web page is updated. The page also includes a function to toggle the completed status of a task when it is clicked, and a function to display the tasks on the web page. Finally, the page includes a function to scroll to the top of the page when the "go to top" button is clicked.
+## Features
 
-### Languages used
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Add new tasks
+- Mark tasks as completed
+- Delete completed tasks
+- Tasks saved in browser (Local Storage)
+- Smooth “Back to Top” button
+- Simple, responsive, and user-friendly UI
+## Tech Stack
 
-#### Wanna Try it?
-Visit https://pavaram.github.io/To-Do-List-WebApp
+- **HTML5** – Page structure  
+- **CSS3** – Styling & layout  
+- **JavaScript** – App logic & interactivity  
+
+## Demo
+👉 Try it here:
+[https://pavaram.github.io/To-Do-List-WebApp](https://dumb-todolist.netlify.app/)
+
+
+## Screenshots
+<img width="1867" height="961" alt="image" src="https://github.com/user-attachments/assets/02b0ece8-598d-4bc4-bba2-9b41b1a59fba" />
+
