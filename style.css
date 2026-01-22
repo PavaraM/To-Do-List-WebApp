@@ -1,6 +1,6 @@
 html {
-	margin: 0.8% 6%;
-	scroll-behavior: smooth;
+  margin: 0.8% 6%;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -100,19 +100,19 @@ li.completed {
 }
 
 a {
-	color: #d8d8d8;
+  color: #d8d8d8;
 }
 
 .header {
-	background: rgba(0, 0, 0, 0.626);
-	padding: 11px;
-	border-radius: 10px;
-	border: none;
+  background: rgba(0, 0, 0, 0.626);
+  padding: 11px;
+  border-radius: 10px;
+  border: none;
 }
 
 #subtitle {
-	font-size: 10px;
-	margin-top: 0;
+  font-size: 10px;
+  margin-top: 0;
 }
 
 button.rounded {
